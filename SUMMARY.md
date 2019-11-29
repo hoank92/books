@@ -9,5 +9,5 @@
   * [CS109: Probability for Computer Scientists](files/cs109_probability_for_computer_scientists.md)
   * [Nhập môn hiện đại xác suất thống kê](files/nhap_mon_hien_dai_xac_suat_thong_ke.md)
   * [Eloquent JavaScript: A Modern Introduction to Programming](files/eloquent_javascript.md)
-* [View Source](demo.md)
+* [api](demo.md)
 
