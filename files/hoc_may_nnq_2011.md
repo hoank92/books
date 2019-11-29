@@ -4,7 +4,7 @@ Tác giả: Nguyễn Nhật Quang
 
 Năm: 2011
 
-### Nội dung
+## Nội dung
 
 * Giới thiệu ML WEKA
 * Đánh giá hiệu năng
@@ -18,3 +18,4 @@ Năm: 2011
 * Giải thuật di truyền
 * Phân cụm k-means
 * Phân cụm HAC
+

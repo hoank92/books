@@ -4,7 +4,7 @@ Authors: Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 
 Year: 2001
 
-### Contents
+## Contents
 
 1. Introduction
 2. Overview of Supervised Learning
@@ -24,3 +24,4 @@ Year: 2001
 16. Ensemble Learning
 17. Undirected Graphical Models
 18. High-Dimensional Problems
+

@@ -4,7 +4,7 @@ Tác giả: Nguyễn Tiến Dũng
 
 Năm: 2015
 
-### Nội dung
+## Nội dung
 
 * Lời tựa cho bản ebook
 * Lời giới thiệu
@@ -17,3 +17,4 @@ Năm: 2015
 * Phần mềm máy tính cho xác suất thống kê
 * Bảng phân bố Z
 * Tủ sách Sputnik
+

@@ -4,7 +4,7 @@ Author: Chris Piech
 
 Năm: 2017
 
-### Contents
+## Contents
 
 1. Counting
 2. Combinatorics
@@ -27,7 +27,8 @@ Năm: 2017
 19. Samples and Bootstrap
 20. Central Limit Theorem
 21. Maximum Likelihood22 - Gradient Ascent
-23. Maximum A Posteriori
-24. NaiveBayes
-25. LogisticRegression
-26. DeepLearning
+22. Maximum A Posteriori
+23. NaiveBayes
+24. LogisticRegression
+25. DeepLearning
+

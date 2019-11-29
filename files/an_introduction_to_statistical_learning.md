@@ -4,7 +4,7 @@ Authors: Robert Tibshirani and Trevor Hastie
 
 Year: 2013
 
-### Contents
+## Contents
 
 1. Introduction
 2. Statistical Learning
@@ -16,3 +16,4 @@ Year: 2013
 8. Tree-Based Methods
 9. Support Vector Machines
 10. Unsupervised Learning
+

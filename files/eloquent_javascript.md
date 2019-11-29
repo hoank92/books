@@ -4,7 +4,7 @@ Authors: Marijn Haverbeke
 
 Year: 2011
 
-### Contents
+## Contents
 
 1. Introduction
 2. Basic JavaScript: values, variables, and control flow
@@ -23,5 +23,6 @@ Year: 2011
 
 Appendices
 
-1. More (obscure) control structures
+1. More \(obscure\) control structures
 2. Binary Heaps
+
